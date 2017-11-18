@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    color: lightgreen;
+}
+
+.formulario{
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+.formulario input{
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
